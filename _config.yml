@@ -1,11 +1,11 @@
 # Site settings
 title: Stephenchow | La senda solitaria
 description: "La senda solitaria"
-url: "bodypheo.github.io"
+url: "cultvonnegut.github.io"
 author:
   name: "Juan M. Jimenez"
   email: "bodypheo@gmail.com"
-  url: "http://stephenchow.es"
+  url: "cultvonnegut.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
